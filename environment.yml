@@ -1,0 +1,21 @@
+name: colornet
+dependencies:
+  - python=3.11
+  - pip
+  - ipykernel
+  - matplotlib
+  - seaborn
+  - numpy
+  - pandas
+  - pytorch
+  - torchvision
+  - pillow
+  - torchmetrics
+  - tensorboard
+  - tbparse
+  - pip:
+    - pytesseract
+    - black
+    - isort
+    - nbqa
+    - fire
